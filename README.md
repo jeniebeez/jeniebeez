@@ -1,7 +1,7 @@
 # This is Richard Lo
 - 🤔 Just came back from a 6 months exchange program in Japan
 - 😪 Just had a great time with love during CNY
-- 🐱‍👤 Strive to finish my MsC in Computer Science, NDHU
+- 🥷 Strive to finish my MsC in Computer Science, NDHU
 
 ![fujiyama](https://github.com/jeniebeez/jeniebeez/blob/main/img/fujimount2026.jpg)
 
