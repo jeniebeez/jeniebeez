@@ -1,4 +1,9 @@
-## Hi there 👋
+# This is Richard Lo
+- 🤔 Just came back from a 6 months exchange program in Japan
+- 😪 Just had a great time with love during CNY
+- 🐱‍👤 Strive to finish my MsC in Computer Science, NDHU
+
+![fujiyama](https://github.com/jeniebeez/jeniebeez/blob/main/img/fujimount2026.jpg)
 
 <!--
 **jeniebeez/jeniebeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
